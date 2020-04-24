@@ -1,0 +1,1 @@
+This is a test repository for playing and testing hub for github and node/npm.
